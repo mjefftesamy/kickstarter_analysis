@@ -1,5 +1,6 @@
 # kickstarter_analysis
-#This project studies how different Cinematic project tend to reach their goal. 
+###Overview
+This project studies how different Cinematic project tend to reach their goal. 
 ### Purpose
 the purpose of this Analysis is to find out how different TV Project achieve their outcomes 
 and the fund that they targeted within the time when they were launched.verview of Project: Explain the purpose of this analysis.
@@ -26,15 +27,19 @@ the date lauch and the deadline were presented as raw data. It had to be sorted.
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Louise should launch her play,"Fever" around the period april and august. that is when it is most likely able to be successful.
 she also considered releasing her play specially in May which is the month where it seems to be get more successful.
 
 - What can you conclude about the Outcomes based on Goals?
+
 The goal for the play should not be too high since the higher it is the most like it is to fail.
 The play is most likely to succeed if its goal is less than 15000 dollars.
 
 - What are some limitations of this dataset?
+
 Certain factors that could explain how the different datas are not taken into account. such as the age of the public, advertisement, etc...
 
 - What are some other possible tables and/or graphs that we could create?
+
 Outcome per age group, outcome per countries, outcome per categories, outcome per streaming platform.
