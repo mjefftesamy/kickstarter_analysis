@@ -1,5 +1,9 @@
 # kickstarter_analysis
-#Overview of Project: Explain the purpose of this analysis.
+#This project studies how different Cinematic project tend to reach their goal. 
+### Purpose
+the purpose of this Analysis is to find out how different TV Project achieve their outcomes 
+and the fund that they targeted within the time when they were launched.verview of Project: Explain the purpose of this analysis.
+
 ##### Analysis and Challenges
 We will be analyzing different datas to find out how those project tend to be successful. 
 First analysis will be based on the date the project was launched, different datas of several projects have been collected from 2009 to 2017.
